@@ -1,0 +1,43 @@
+# CMake generation dependency list for this directory.
+C:/Pleiades/vcpkg/installed/x86-windows/share/sfml/SFMLConfig.cmake
+C:/Pleiades/vcpkg/installed/x86-windows/share/sfml/SFMLConfigDependencies.cmake
+C:/Pleiades/vcpkg/installed/x86-windows/share/sfml/SFMLConfigVersion.cmake
+C:/Pleiades/vcpkg/installed/x86-windows/share/sfml/SFMLSharedTargets-debug.cmake
+C:/Pleiades/vcpkg/installed/x86-windows/share/sfml/SFMLSharedTargets-release.cmake
+C:/Pleiades/vcpkg/installed/x86-windows/share/sfml/SFMLSharedTargets.cmake
+C:/Pleiades/vcpkg/scripts/buildsystems/vcpkg.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.24/Templates/CPackConfig.cmake.in
+E:/Wyvern/CMakeLists.txt
+E:/Wyvern/build/CMakeFiles/3.24.0-rc2/CMakeCCompiler.cmake
+E:/Wyvern/build/CMakeFiles/3.24.0-rc2/CMakeCXXCompiler.cmake
+E:/Wyvern/build/CMakeFiles/3.24.0-rc2/CMakeRCCompiler.cmake
+E:/Wyvern/build/CMakeFiles/3.24.0-rc2/CMakeSystem.cmake
