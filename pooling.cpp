@@ -7,7 +7,8 @@
 #include <functional>
 #include <utility>
 #include <typeinfo>
-
+//TODO
+//ADD VARIABLE LOCKING TO PREVENT TWO THREADS FROM ACCESSING THE SAME DATA
 enum ObjectStates
 {
     INITIALIZED,
