@@ -4,6 +4,9 @@
     <ClCompile Include="E:\Wyvern\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="E:\Wyvern\pooling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="E:\Wyvern\CMakeLists.txt" />
